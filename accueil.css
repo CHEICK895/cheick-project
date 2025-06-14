@@ -1,0 +1,88 @@
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #007bff; /* bleu */
+    color: white;
+    text-decoration: none;
+    border-radius: 30px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    margin: 0;
+    height: 100%; /* Hauteur du bouton */
+    padding: 20px;
+    
+  }
+
+  .btn:hover {
+    background-color: #b0b9c3;
+  }
+.navbar {
+  
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1); 
+    font-family: 'Georgia', serif;
+    padding: 20px;
+}
+        
+.nav-link {
+    color: black!important;
+}
+.h1{
+    font-family: 'Georgia', serif;
+}
+.section-bleue {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 60px 0;
+            margin-top: 1% ;
+            margin-bottom: 2.5%;
+            
+}
+.chronologie{
+    background-color: #f8f9fa;
+    padding: 60px 0;
+    margin-top: 1% ;
+    margin-bottom: 2.5%;
+}
+.carte-tech {
+            transition: transform 0.3s ease;
+            border: none;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.carte-tech:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 15px rgba(0,0,0,0.2);
+}
+
+#section-citation{
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 60px 0;
+    margin-top: 2.5% ;
+    
+}
+  
+
+
+.footer{
+    background-color: #3b4037;
+    color: white;
+    margin-bottom: 20px 0;         
+    padding: 40px 0;
+    margin-top:  0;
+    font-family: 'Georgia', serif;
+    
+}
+body, html {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            overflow-x: hidden;
+        }
+        body, html {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            overflow-x: hidden;
+        }
